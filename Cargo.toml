@@ -2,5 +2,8 @@
 name = "db1919"
 version = "0.1.0"
 edition = "2021"
-
+authors = ["John <lijunhui.dev@gmail.com>"]
+descriptions = "A tiny sql server"
+readme = "README.md"
+repository = "https://github.com/gotorion/db1969"
 [dependencies]
